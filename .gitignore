@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+dist/
+backend/data/*.db
+backend/data/*.sqlite*
+backend/chroma_db/
+.DS_Store
+backend/agromind.db
