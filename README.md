@@ -177,19 +177,6 @@ The repository also includes database integration modules, an AI-agent-related m
 
 ---
 
-## 🚀 Deployment Links
-
-The following fields are intentionally left blank so the actual deployment URLs can be added after successful deployment.
-
-| Component | Deployment URL |
-|---|---|
-| Live Frontend | |
-| Backend API | |
-| Interactive API Documentation | |
-| API Health Endpoint | |
-
----
-
 ## ❗ Problem Statement
 
 Crop suitability depends on soil properties and environmental conditions. Making crop selection decisions without considering these factors may lead to unsuitable planting choices and inefficient use of agricultural resources.
@@ -1084,9 +1071,9 @@ Add a `LICENSE` file if you intend to distribute the project under an open-sourc
 
 **Fairuz Zahin Sneha**
 
-- GitHub Profile: [@fairuzzahin](https://github.com/fairuzzahin)
-- Project Repository: [AgroMind Nexus AI](https://github.com/fairuzzahin/AgroMind_Nexus_AI)
-
+- **GitHub Profile:** [@fairuzzahin](https://github.com/fairuzzahin)
+- **Project Repository:** [AgroMind Nexus AI](https://github.com/fairuzzahin/AgroMind_Nexus_AI)
+- **Deployment URL:** [AgroMind Nexus AI Live Demo](https://agromind-nexus-ai-9.onrender.com)
 ---
 
 
