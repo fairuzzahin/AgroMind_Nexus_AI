@@ -93,6 +93,15 @@ The knowledge collection in `backend/app/knowledge.py` contains short starter no
 5. UI: test invalid inputs, loading/error states, responsive layout, and API failure.
 6. Deployment: verify frontend-to-backend CORS, environment variables, persistence, and secrets.
 =======
+## 👩‍💻 Author
+
+**Fairuz Zahin Sneha**
+
+- **GitHub Profile:** [@fairuzzahin](https://github.com/fairuzzahin)
+- **Project Repository:** [AgroMind Nexus AI](https://github.com/fairuzzahin/AgroMind_Nexus_AI)
+- **Deployment URL:** [AgroMind Nexus AI Live Demo](https://agromind-nexus-ai-9.onrender.com)
+---
+
 # 🌱 AgroMind Nexus AI — AI-Powered Crop Recommendation System
 
 **AgroMind Nexus AI** is a full-stack artificial intelligence project designed to support data-driven agricultural decision-making through machine learning. The application combines a modern web frontend, a FastAPI backend, crop prediction capabilities, database integration, and Docker-based deployment.
@@ -1059,22 +1068,7 @@ git push origin feature/improve-crop-prediction
 
 ---
 
-## 📄 License
-
-No license has been specified in this README.
-
-Add a `LICENSE` file if you intend to distribute the project under an open-source license. Ensure that the selected license is appropriate for the project's ownership, dependencies, and intended use.
-
----
-
-## 👩‍💻 Author
-
-**Fairuz Zahin Sneha**
-
-- **GitHub Profile:** [@fairuzzahin](https://github.com/fairuzzahin)
-- **Project Repository:** [AgroMind Nexus AI](https://github.com/fairuzzahin/AgroMind_Nexus_AI)
-- **Deployment URL:** [AgroMind Nexus AI Live Demo](https://agromind-nexus-ai-9.onrender.com)
----
 
 
->>>>>>> origin/main
+
+
