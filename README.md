@@ -99,7 +99,7 @@ The knowledge collection in `backend/app/knowledge.py` contains short starter no
 
 - **GitHub Profile:** [@fairuzzahin](https://github.com/fairuzzahin)
 - **Project Repository:** [AgroMind Nexus AI](https://github.com/fairuzzahin/AgroMind_Nexus_AI)
-- **Deployment URL:** [AgroMind Nexus AI Live Demo](https://agromind-nexus-ai-9.onrender.com)
+- **Deployment URL:** [AgroMind Nexus AI Live Demo](https://agromind-nexus-ai-10.onrender.com)
 ---
 
 # 🌱 AgroMind Nexus AI — AI-Powered Crop Recommendation System
